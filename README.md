@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen)
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 
-![logo](https://github.com/tomasilluminati/MorseWave/blob/main/logo/morse_wave_logo.png)
+![logo](https://github.com/tomasilluminati/InkCode/blob/main/logo/ink_code_logo.png)
 
 ## Overview
 
