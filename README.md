@@ -2,6 +2,10 @@
 # MorseWave V1.0
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0-brightgreen)
+![Python Version](https://img.shields.io/badge/python-3.11-blue)
+
+![logo](https://github.com/tomasilluminati/MorseWave/blob/main/logo/morse_wave_logo.png)
 
 ## Overview
 
@@ -16,15 +20,17 @@ MorseWave is a Python module that enables users to convert text to Morse code an
 
 ## Installation
 
-1. Clone this repository to your local machine.
+Import the module into your Python script:
 
-2. Import the module into your Python script:
-
-```python
+```bash
 import morsewave as mw
 ```
 
-3. Start using the functions provided by the module.
+Or Install with the pip command:
+
+```bash
+pip install morsewave
+```
 
 ## Usage
 
